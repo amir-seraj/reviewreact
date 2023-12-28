@@ -5,6 +5,7 @@ const styleform = {
   display: "flex",
   alignItems: "center",
   justifyContent: "center",
+  backgroundColor: "#ffbf57",
 };
 const styleInput = {
   width: "25vw",
